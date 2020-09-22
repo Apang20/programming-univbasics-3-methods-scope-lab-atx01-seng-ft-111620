@@ -1,6 +1,7 @@
 status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 phrase = "It's-a me, Mario!"
 quote = "It's Dangerous To Go Alone! Take This." 
+
 def mario
   #status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   phrase = "It's-a me, Mario!"
@@ -22,8 +23,8 @@ end
 
 def all_phrases
   say = "puts out all of the previous catch phrases" 
-  puts phrase
-  puts status
-  puts quote
+  phrase
+  status
+  quote
 
   end

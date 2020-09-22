@@ -10,7 +10,7 @@ def mario
 end
 
 def toadstool
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  status = "Thank You Mario! But Our Princess Is In Another Castle!"
   puts status
   status
 end
@@ -27,7 +27,7 @@ def all_phrases
  #puts all
  #all
  puts "It's-a me, Mario!"
- puts
- puts 
+ puts "Thank You Mario! But Our Princess Is In Another Castle!"
+ puts "It's Dangerous To Go Alone! Take This." 
 
   end

@@ -23,7 +23,7 @@ end
 
 def all_phrases
   say = "puts out all of the previous catch phrases" 
-  phrase
+  putphrase
   status
   quote
 

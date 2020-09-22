@@ -1,5 +1,7 @@
+status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+phrase = 
 def mario
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  #status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
 end
 

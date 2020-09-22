@@ -22,9 +22,9 @@ def link
 end
 
 def all_phrases
-  say = "puts out all of the previous catch phrases" 
-  putphrase
-  status
-  quote
+  #say = "puts out all of the previous catch phrases" 
+  puts phrase
+  puts status
+  puts quote
 
   end
